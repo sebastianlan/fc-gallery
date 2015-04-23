@@ -1,5 +1,5 @@
 # fc-gallery
-css3实现的特效画廊
+CSS3实现的特效画廊
 ## Demo
 [FIRST CLASS GALLERY](http://sebastianlan.github.io/fc-gallery)
 ## Thanks
